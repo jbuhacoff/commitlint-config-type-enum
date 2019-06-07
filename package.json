@@ -1,0 +1,33 @@
+{
+  "name": "@jbuhacoff/commitlint-config-type-enum",
+  "version": "1.0.0",
+  "description": "Shareable commitlint config with custom type enum",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "clean": "exit 0",
+    "deps": "dep-check",
+    "pkg": "pkg-check",
+    "start": "exit 0",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuhacoff/commitlint-config-type-enum.git"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "commitlint",
+    "commitlint-config"
+  ],
+  "author": "Jonathan Buhacoff <jonathan@buhacoff.net>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jbuhacoff/commitlint-config-type-enum/issues"
+  },
+  "homepage": "https://github.com/jbuhacoff/commitlint-config-type-enum#readme",
+  "devDependencies": {
+    "@commitlint/utils": "^8.0.0"
+  }
+}
