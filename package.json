@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/jbuhacoff/commitlint-config-type-enum#readme",
   "devDependencies": {
-    "@commitlint/utils": "^8.0.0"
+    "@commitlint/utils": "^8.1.0"
   }
 }
